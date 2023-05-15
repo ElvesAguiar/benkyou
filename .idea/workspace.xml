@@ -7,7 +7,6 @@
     <list default="true" id="3bbd8dc8-33da-4389-b251-4806612d0865" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mode/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mode/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/services/SalaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/services/SalaryService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684112961098</updated>
       <workItem from="1684112962164" duration="408000" />
-      <workItem from="1684150170734" duration="2905000" />
+      <workItem from="1684150170734" duration="3496000" />
     </task>
     <servers />
   </component>

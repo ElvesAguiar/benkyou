@@ -2,6 +2,7 @@ package mode.application;
 
 
 import model.entities.Employee;
+import model.services.BrazilTaxService;
 import model.services.PensionService;
 import model.services.SalaryService;
 import model.services.TaxService;
@@ -16,7 +17,7 @@ public class Program {
 
 
 
-        SalaryService salaryService = new SalaryService(new TaxService(),new PensionService());
+        SalaryService salaryService = new SalaryService(new BrazilTaxService(),new PensionService());
 
         //forma errada
 
