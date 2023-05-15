@@ -16,7 +16,7 @@ public class Program {
 
 
 
-        SalaryService salaryService = new SalaryService();
+        SalaryService salaryService = new SalaryService(new TaxService(),new PensionService());
 
         //forma errada
 
